@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Aurum21
-- 👀 I’m interested in WEB Disign.
+- 👀 I’m interested in Front-End.
 - 🌱 I’m currently learning HTML&CSS, JavaScript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : Orlinaurelov@gmail.com
